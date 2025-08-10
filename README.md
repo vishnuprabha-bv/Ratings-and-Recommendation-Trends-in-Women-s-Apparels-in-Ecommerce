@@ -1,4 +1,4 @@
-#Ratings and Recommendation Trends in Womens Apparels in Ecommerce
+# Ratings and Recommendation Trends in Womens Apparel in Ecommerce
 
 An interactive Power Bi dashboard analyzing 23K+ women’s clothing reviews.
 
